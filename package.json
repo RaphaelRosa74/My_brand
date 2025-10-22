@@ -1,5 +1,5 @@
 {
-  "homepage":"https://raphaelrosa74.github.io/My_brand",
+  "homepage": "https://raphaelrosa74.github.io/My_brand",
   "name": "myreactbrand",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
